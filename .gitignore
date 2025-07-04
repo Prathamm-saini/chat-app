@@ -1,0 +1,14 @@
+# Go build output
+bin/
+*.exe
+*.out
+*.test
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Secrets
+.env
